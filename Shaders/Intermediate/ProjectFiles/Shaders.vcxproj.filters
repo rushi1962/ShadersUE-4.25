@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Shaders.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CDF5B633-F78B-4DA8-AF41-5337C71C4382}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shaders.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShadersEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{505EE4B9-0013-475A-B1AC-5D9C5BB95658}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Shaders">
+      <UniqueIdentifier>{272A3788-5FDE-4F47-999A-24A443902B04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shaders\Shaders.Build.cs">
+      <Filter>Source\Shaders</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Shaders\Shaders.cpp">
+      <Filter>Source\Shaders</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shaders\Shaders.h">
+      <Filter>Source\Shaders</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Shaders\ShadersGameModeBase.cpp">
+      <Filter>Source\Shaders</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shaders\ShadersGameModeBase.h">
+      <Filter>Source\Shaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

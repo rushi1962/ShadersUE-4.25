@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\UE4.25.1\\ShadersUE-4.25\\Shaders\\Source\\Shaders\\Shaders.Build.cs",
+		"H:\\UE4.25.1\\ShadersUE-4.25\\Shaders\\Source\\Shaders.Target.cs",
+		"H:\\UE4.25.1\\ShadersUE-4.25\\Shaders\\Source\\ShadersEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

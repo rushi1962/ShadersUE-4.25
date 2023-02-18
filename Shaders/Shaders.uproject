@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{189F4221-4A0C-DFF0-52CE-0B97258A4764}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Shaders",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
