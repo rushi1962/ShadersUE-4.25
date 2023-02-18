@@ -13,9 +13,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|Win32'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
@@ -29,9 +29,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|Win32'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
@@ -39,15 +39,16 @@
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
-    <LocalDebuggerCommandArguments>"$(SolutionDir)Shaders.uproject" -skipcompile</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"H:\UE4.25.1\ShadersUE-4.25\Shaders\Shaders.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <RemoteDebuggerCommandArguments>"H:\UE4.25.1\ShadersUE-4.25\Shaders\Shaders.uproject" -skipcompile</RemoteDebuggerCommandArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Win32'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
@@ -57,9 +58,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Test|Win32'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
@@ -69,7 +70,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Test|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Test|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Test|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
 </Project>
