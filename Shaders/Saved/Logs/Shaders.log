@@ -1544,3 +1544,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.18-07.39.09:371][394]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2023.02.18-07.39.09:371][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.02.18-07.39.11:431][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.18-08.02.28:357][859]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{00c6ad9d-11b0-4419-8606-ff27f6c81e5f}.
+[2023.02.18-08.02.28:357][859]LogTemp: Resetting audio stream to device id 
+[2023.02.18-08.02.28:660][859]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.18-08.02.28:660][859]LogAudioMixer: Display: 1: FrontRight
+[2023.02.18-08.51.17:845][588]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5c58e450-ec55-4b2f-8322-573091df8596}.
+[2023.02.18-08.51.17:845][588]LogTemp: Resetting audio stream to device id 
+[2023.02.18-08.51.18:534][588]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.18-08.51.18:534][588]LogAudioMixer: Display: 1: FrontRight
+[2023.02.18-08.53.26:837][ 64]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterials/M_BasicExampleMaterial.M_BasicExampleMaterial
+[2023.02.18-08.53.26:846][ 64]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2023.02.18-08.53.26:976][ 64]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2023.02.18-08.53.26:982][ 64]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.18-08.53.26:995][ 64]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.18-08.53.26:999][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2023.02.18-08.53.27:006][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2023.02.18-08.53.27:010][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.18-08.53.27:014][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2023.02.18-08.53.27:018][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2023.02.18-08.53.28:719][147]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2023.02.18-08.53.28:719][147]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2023.02.18-08.53.28:944][160]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2023.02.18-08.53.29:013][164]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2023.02.18-08.53.29:077][168]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2023.02.18-08.53.29:077][168]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2023.02.18-08.53.29:095][169]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2023.02.18-08.53.29:095][169]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2023.02.18-08.53.29:432][188]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.02.18-08.53.29:432][188]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2023.02.18-08.53.29:461][189]MaterialEditorStats: Base pass shader: 129 instructions
+[2023.02.18-08.53.29:461][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2023.02.18-08.53.29:461][189]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.18-08.53.29:461][189]MaterialEditorStats: Texture samplers: 7/16
+[2023.02.18-08.53.29:461][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2023.02.18-08.53.29:462][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.18-08.53.29:646][199]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2023.02.18-08.53.29:685][201]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.18-08.53.30:127][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2023.02.18-08.53.30:127][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.18-08.53.30:127][227]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2023.02.18-08.53.30:127][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.02.18-08.53.30:127][227]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.02.18-08.53.30:128][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.18-08.53.30:176][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.18-08.53.30:225][233]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.18-08.53.30:748][260]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: 000001C5BF8A9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6B42E0CE-41B4-8216-C535-559E055D9ED5%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.25.4-0%2B%2B%2BUE4%2BRelease-4.25&UserID=aa0c4f274361a4810205c9a6d57d34df%7C970441b6187c4405bc81946c6326e935%7Caa3f655a-a5c5-437d-b26a-6d36448b8926&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: 000001C5BF8A9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: 000001C5BF8A9600: libcurl info message cache 0 (Connection 53 seems to be dead!)
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: 000001C5BF8A9600: libcurl info message cache 1 (Closing connection 53)
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: 000001C5BF8A9600: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: 000001C5BF8A9600: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: 000001C5BF8A9600: libcurl info message cache 4 (Closing connection 54)
+[2023.02.18-09.21.32:626][862]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6B42E0CE-41B4-8216-C535-559E055D9ED5%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.25.4-0%2B%2B%2BUE4%2BRelease-4.25&UserID=aa0c4f274361a4810205c9a6d57d34df%7C970441b6187c4405bc81946c6326e935%7Caa3f655a-a5c5-437d-b26a-6d36448b8926&AppEnvironment=datacollector-source&UploadType=eteventstream
