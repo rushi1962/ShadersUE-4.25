@@ -714,3 +714,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.19-10.33.07:508][382]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2023.02.19-10.33.07:508][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.02.19-10.33.08:840][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.19-10.39.51:227][703]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterials/M_VolumetricIceMaterial.M_VolumetricIceMaterial
+[2023.02.19-10.39.51:229][703]LogMaterial: Display: Missing cached shader map for material M_VolumetricIceMaterial, compiling. 
+[2023.02.19-10.39.51:314][703]LogMaterial: Display: Missing cached shader map for material M_VolumetricIceMaterial, compiling. 
+[2023.02.19-10.39.51:320][703]LogMaterial: Display: Missing cached shader map for material M_VolumetricIceMaterial, compiling. 
+[2023.02.19-10.39.51:331][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2023.02.19-10.39.51:334][703]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.02.19-10.39.51:334][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2023.02.19-10.39.51:337][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2023.02.19-10.39.53:010][793]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.02.19-10.39.53:010][793]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2023.02.19-10.39.53:204][804]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2023.02.19-10.39.53:245][806]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2023.02.19-10.39.53:346][812]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2023.02.19-10.39.53:379][814]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2023.02.19-10.39.53:413][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.19-10.39.53:413][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.19-10.39.53:560][824]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.19-10.39.53:560][824]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.19-10.39.53:587][825]MaterialEditorStats: Base pass shader: 144 instructions
+[2023.02.19-10.39.53:587][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2023.02.19-10.39.53:587][825]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-10.39.53:587][825]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-10.39.53:587][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.19-10.39.53:587][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-10.39.53:895][841]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.19-10.39.53:895][841]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-10.39.53:927][843]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.19-10.46.29:189][482]LogMaterialEditor: Saving and Compiling material M_VolumetricIceMaterial
+[2023.02.19-10.46.31:429][482]LogMaterial: Display: Missing cached shader map for material M_VolumetricIceMaterial, compiling. 
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-10.46.31:457][482]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-10.46.31:476][482]LogMaterial: Display: Missing cached shader map for material M_VolumetricIceMaterial, compiling. 
+[2023.02.19-10.46.31:500][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.19-10.46.31:505][482]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.02.19-10.46.33:651][482]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2023.02.19-10.46.33:651][482]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2023.02.19-10.46.33:651][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.02.19-10.46.33:651][482]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2023.02.19-10.46.33:651][482]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2023.02.19-10.46.33:651][482]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2023.02.19-10.46.33:651][482]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2023.02.19-10.46.33:846][482]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2023.02.19-10.46.33:846][482]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.02.19-10.46.33:846][482]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.19-10.46.33:846][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.19-10.46.33:855][482]TextureStreamingBuild: Display: Compiling optional shaders took 2.354 seconds.
+[2023.02.19-10.46.33:871][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.02.19-10.46.34:464][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.19-10.46.34:464][482]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.19-10.46.34:464][482]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-10.46.34:786][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterials/M_VolumetricIceMaterial" FILE="../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/M_VolumetricIceMaterial.uasset" SILENT=true
+[2023.02.19-10.46.34:842][482]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_VolumetricIceMaterial1E0A9F2544E71CA40E4E9886BC378011.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/M_VolumetricIceMaterial.uasset'
+[2023.02.19-10.46.34:868][482]AssetCheck: New page: Asset Save: M_VolumetricIceMaterial
+[2023.02.19-10.46.34:868][482]LogContentValidation: Display: Validating Material /Game/NewMaterials/M_VolumetricIceMaterial.M_VolumetricIceMaterial
+[2023.02.19-10.46.34:872][482]MaterialEditorStats: Base pass shader: 144 instructions
+[2023.02.19-10.46.34:872][482]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2023.02.19-10.46.34:872][482]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-10.46.34:872][482]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.19-10.46.34:872][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.19-10.46.34:872][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-10.47.06:132][358]LogSlate: Window 'M_VolumetricIceMaterial' being destroyed
+[2023.02.19-10.47.06:171][358]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-10.47.06:171][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
