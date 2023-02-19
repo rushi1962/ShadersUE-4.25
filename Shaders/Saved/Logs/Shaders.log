@@ -2695,3 +2695,107 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.19-06.08.23:952][458]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
 [2023.02.19-06.08.50:230][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
 [2023.02.19-06.08.51:263][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.19-06.09.21:449][446]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-06.09.21:449][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-06.09.35:534][283]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UV_Grid.UV_Grid
+[2023.02.19-06.09.39:762][530]LogSlate: Window 'UV_Grid' being destroyed
+[2023.02.19-06.09.41:148][609]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/distortion.distortion
+[2023.02.19-06.09.53:041][316]LogTexture: Display: Building textures: distortion (AutoDXT, 512X512)
+[2023.02.19-06.10.03:141][915]Cmd: TRANSACTION UNDO
+[2023.02.19-06.10.03:141][915]LogEditorTransaction: Undo Edit Compression Settings
+[2023.02.19-06.10.17:626][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/distortion" FILE="../../../../ShadersUE-4.25/Shaders/Content/Textures/distortion.uasset" SILENT=true
+[2023.02.19-06.10.17:662][774]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/distortionE2A49DFB43B7F1CFE48FDAA072D01395.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/Textures/distortion.uasset'
+[2023.02.19-06.10.17:672][774]AssetCheck: New page: Asset Save: distortion
+[2023.02.19-06.10.17:672][774]LogContentValidation: Display: Validating Texture2D /Game/Textures/distortion.distortion
+[2023.02.19-06.10.21:558][  7]Cmd: TRANSACTION UNDO
+[2023.02.19-06.10.21:558][  7]LogEditorTransaction: Undo Edit Compression Settings
+[2023.02.19-06.10.22:452][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/distortion" FILE="../../../../ShadersUE-4.25/Shaders/Content/Textures/distortion.uasset" SILENT=true
+[2023.02.19-06.10.22:469][ 52]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/distortion190276BD4F72161B778CE9B8C57AFD6C.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/Textures/distortion.uasset'
+[2023.02.19-06.10.22:477][ 52]AssetCheck: New page: Asset Save: distortion
+[2023.02.19-06.10.22:477][ 52]LogContentValidation: Display: Validating Texture2D /Game/Textures/distortion.distortion
+[2023.02.19-06.10.34:155][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/distortion" FILE="../../../../ShadersUE-4.25/Shaders/Content/Textures/distortion.uasset" SILENT=true
+[2023.02.19-06.10.34:181][751]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/distortionB4EBBC494B15361C033C1EBBB9CA397E.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/Textures/distortion.uasset'
+[2023.02.19-06.10.34:191][751]AssetCheck: New page: Asset Save: distortion
+[2023.02.19-06.10.34:191][751]LogContentValidation: Display: Validating Texture2D /Game/Textures/distortion.distortion
+[2023.02.19-06.10.36:551][892]LogSlate: Window 'distortion' being destroyed
+[2023.02.19-06.10.41:140][162]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterials/M_DistortionMaterial.M_DistortionMaterial
+[2023.02.19-06.10.41:142][162]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.41:143][162]LogMaterial: Warning: /Engine/Transient.M_DistortionMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.19-06.10.41:143][162]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Masks for /Game/Textures/distortion.distortion
+[2023.02.19-06.10.41:184][162]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.41:184][162]LogMaterial: Warning: /Engine/Transient.M_DistortionMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.19-06.10.41:185][162]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Masks for /Game/Textures/distortion.distortion
+[2023.02.19-06.10.41:186][162]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.41:186][162]LogMaterial: Warning: /Engine/Transient.M_DistortionMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.19-06.10.41:186][162]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Masks for /Game/Textures/distortion.distortion
+[2023.02.19-06.10.41:195][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.19-06.10.41:196][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2023.02.19-06.10.41:212][162]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Masks for /Game/Textures/distortion.distortion
+[2023.02.19-06.10.47:740][551]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.47:743][551]LogMaterial: Warning: /Engine/Transient.M_DistortionMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.19-06.10.47:743][551]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Masks for /Game/Textures/distortion.distortion
+[2023.02.19-06.10.49:860][678]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.49:869][678]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2023.02.19-06.10.49:875][678]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.02.19-06.10.49:876][678]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.51:372][767]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2023.02.19-06.10.51:372][767]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2023.02.19-06.10.51:522][776]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2023.02.19-06.10.51:570][779]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2023.02.19-06.10.51:622][782]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2023.02.19-06.10.51:671][785]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2023.02.19-06.10.51:689][786]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2023.02.19-06.10.51:689][786]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2023.02.19-06.10.51:859][796]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.19-06.10.51:948][801]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.19-06.10.52:137][812]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.02.19-06.10.52:170][814]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.19-06.10.52:270][820]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.19-06.10.52:596][839]LogMaterialEditor: Saving and Compiling material M_DistortionMaterial
+[2023.02.19-06.10.53:064][839]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.53:097][839]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-06.10.53:097][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-06.10.53:097][839]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-06.10.53:097][839]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-06.10.53:097][839]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-06.10.53:098][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-06.10.53:098][839]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-06.10.53:098][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-06.10.53:113][839]LogMaterial: Display: Missing cached shader map for material M_DistortionMaterial, compiling. 
+[2023.02.19-06.10.53:161][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.02.19-06.10.53:172][839]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.02.19-06.10.53:713][839]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2023.02.19-06.10.53:713][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2023.02.19-06.10.53:713][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.02.19-06.10.54:034][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.19-06.10.54:037][839]TextureStreamingBuild: Display: Compiling optional shaders took 0.872 seconds.
+[2023.02.19-06.10.54:061][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.02.19-06.10.54:720][839]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.19-06.10.54:720][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.19-06.10.54:720][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.19-06.10.54:895][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterials/M_DistortionMaterial" FILE="../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/M_DistortionMaterial.uasset" SILENT=true
+[2023.02.19-06.10.54:945][839]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_DistortionMaterialBDE4096249E68A81D91BA4B7BB17C14F.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/M_DistortionMaterial.uasset'
+[2023.02.19-06.10.54:979][839]AssetCheck: New page: Asset Save: M_DistortionMaterial
+[2023.02.19-06.10.54:980][839]LogContentValidation: Display: Validating Material /Game/NewMaterials/M_DistortionMaterial.M_DistortionMaterial
+[2023.02.19-06.10.54:980][839]MaterialEditorStats: Base pass shader: 124 instructions
+[2023.02.19-06.10.54:980][839]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2023.02.19-06.10.54:980][839]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-06.10.54:980][839]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.19-06.10.54:980][839]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-06.10.54:980][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-06.10.59:485][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.19-06.11.00:684][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
