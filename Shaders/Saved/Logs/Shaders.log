@@ -4064,3 +4064,271 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.19-08.32.42:088][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2023.02.19-08.32.44:057][456]LogSlate: Window 'M_ClothEffectWithFresnelEffect' being destroyed
 [2023.02.19-08.33.11:691][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.02.19-08.37.10:598][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.02.19-08.37.33:830][958]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.37.33:836][958]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.37.33:850][960]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.37.35:339][ 49]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.37.35:714][ 71]MaterialEditorStats: Base pass shader: 140 instructions
+[2023.02.19-08.37.35:714][ 71]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2023.02.19-08.37.35:714][ 71]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.37.35:714][ 71]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.37.35:714][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.37.35:715][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.37.44:227][581]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.37.44:234][581]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.37.44:243][582]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.37.44:805][616]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.37.45:179][638]MaterialEditorStats: Base pass shader: 140 instructions
+[2023.02.19-08.37.45:179][638]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2023.02.19-08.37.45:179][638]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.37.45:179][638]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.37.45:179][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.37.45:179][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.37.49:049][870]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.37.49:056][870]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.37.49:069][872]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.37.49:071][872]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.37.49:071][872]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.37.49:071][872]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.37.49:071][872]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.37.49:071][872]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.37.49:071][872]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.37.49:071][872]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.37.49:661][907]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.19-08.37.50:017][928]MaterialEditorStats: Base pass shader: 140 instructions
+[2023.02.19-08.37.50:017][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2023.02.19-08.37.50:017][928]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.37.50:017][928]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.37.50:017][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.37.50:017][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.38.00:096][532]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.00:103][532]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.38.00:116][534]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.38.00:675][567]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.38.01:064][590]MaterialEditorStats: Base pass shader: 143 instructions
+[2023.02.19-08.38.01:064][590]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 217 instructions
+[2023.02.19-08.38.01:064][590]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.38.01:064][590]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.38.01:064][590]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.38.01:064][590]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.38.10:937][181]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.38.10:944][181]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.38.10:945][181]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.11:500][215]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2023.02.19-08.38.11:500][215]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.19-08.38.11:646][224]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2023.02.19-08.38.11:682][226]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.02.19-08.38.11:765][231]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.02.19-08.38.11:766][231]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2023.02.19-08.38.11:766][231]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.38.11:782][232]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.02.19-08.38.12:116][252]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.19-08.38.12:507][275]MaterialEditorStats: Base pass shader: 143 instructions
+[2023.02.19-08.38.12:507][275]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 217 instructions
+[2023.02.19-08.38.12:507][275]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.38.12:507][275]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.38.12:507][275]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.38.12:507][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.38.23:619][941]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.23:625][941]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.38.23:639][943]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.38.24:178][975]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.38.24:552][997]MaterialEditorStats: Base pass shader: 144 instructions
+[2023.02.19-08.38.24:552][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2023.02.19-08.38.24:552][997]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.38.24:552][997]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.38.24:552][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.38.24:552][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.38.37:851][794]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.37:858][794]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.38.37:867][795]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.38.38:412][828]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.38.38:769][849]MaterialEditorStats: Base pass shader: 144 instructions
+[2023.02.19-08.38.38:769][849]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2023.02.19-08.38.38:769][849]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.38.38:769][849]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.38.38:769][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.38.38:769][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.38.41:803][ 31]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.41:811][ 31]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.38.41:842][ 34]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.38.42:364][ 65]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.19-08.38.42:721][ 86]MaterialEditorStats: Base pass shader: 144 instructions
+[2023.02.19-08.38.42:721][ 86]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 218 instructions
+[2023.02.19-08.38.42:721][ 86]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.38.42:721][ 86]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.38.42:721][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.38.42:721][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.38.52:919][697]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.52:926][697]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.38.52:940][699]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.38.53:514][733]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.19-08.38.53:888][755]MaterialEditorStats: Base pass shader: 143 instructions
+[2023.02.19-08.38.53:889][755]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 217 instructions
+[2023.02.19-08.38.53:889][755]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.38.53:889][755]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.38.53:889][755]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.38.53:889][755]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.39.01:600][217]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.01:608][217]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.39.01:623][219]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.39.02:178][252]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.39.02:535][273]MaterialEditorStats: Base pass shader: 143 instructions
+[2023.02.19-08.39.02:535][273]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 217 instructions
+[2023.02.19-08.39.02:535][273]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.39.02:535][273]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.39.02:535][273]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.39.02:535][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.39.10:814][769]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.10:822][769]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.39.10:834][771]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.39.11:393][804]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.19-08.39.11:748][825]MaterialEditorStats: Base pass shader: 140 instructions
+[2023.02.19-08.39.11:748][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2023.02.19-08.39.11:748][825]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.39.11:748][825]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.39.11:748][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.39.11:748][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.39.17:217][153]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.17:224][153]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.39.17:238][155]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.39.17:781][187]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.19-08.39.18:164][209]MaterialEditorStats: Base pass shader: 140 instructions
+[2023.02.19-08.39.18:165][209]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2023.02.19-08.39.18:165][209]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.39.18:165][209]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.39.18:165][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.39.18:165][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.39.46:257][779]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.46:264][779]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.39.46:295][782]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.39.47:649][863]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.39.48:058][887]MaterialEditorStats: Base pass shader: 140 instructions
+[2023.02.19-08.39.48:058][887]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2023.02.19-08.39.48:058][887]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.39.48:058][887]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.19-08.39.48:058][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.39.48:058][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.19-08.39.49:708][986]LogMaterialEditor: Saving and Compiling material M_ClothEffectWithFresnelEffect
+[2023.02.19-08.39.51:291][986]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.19-08.39.51:344][986]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.19-08.39.51:356][986]LogMaterial: Display: Missing cached shader map for material M_ClothEffectWithFresnelEffect, compiling. 
+[2023.02.19-08.39.51:396][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.19-08.39.51:414][986]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.02.19-08.39.51:963][986]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2023.02.19-08.39.51:963][986]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2023.02.19-08.39.51:963][986]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.02.19-08.39.51:963][986]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2023.02.19-08.39.51:963][986]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2023.02.19-08.39.52:215][986]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2023.02.19-08.39.52:215][986]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.19-08.39.52:216][986]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.19-08.39.52:216][986]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.19-08.39.52:216][986]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.19-08.39.52:216][986]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.19-08.39.52:219][986]TextureStreamingBuild: Display: Compiling optional shaders took 0.811 seconds.
+[2023.02.19-08.39.52:249][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.19-08.39.52:836][986]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.19-08.39.52:836][986]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.19-08.39.53:098][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterials/M_ClothEffectWithFresnelEffect" FILE="../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/M_ClothEffectWithFresnelEffect.uasset" SILENT=true
+[2023.02.19-08.39.53:166][986]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_ClothEffectWithFresnelEffect0CC4DDF044C2105E46AC5BA10A06F8DA.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/M_ClothEffectWithFresnelEffect.uasset'
+[2023.02.19-08.39.53:196][986]AssetCheck: New page: Asset Save: M_ClothEffectWithFresnelEffect
+[2023.02.19-08.39.53:196][986]LogContentValidation: Display: Validating Material /Game/NewMaterials/M_ClothEffectWithFresnelEffect.M_ClothEffectWithFresnelEffect
+[2023.02.19-08.39.53:199][986]MaterialEditorStats: Base pass shader: 140 instructions
+[2023.02.19-08.39.53:199][986]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2023.02.19-08.39.53:199][986]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.19-08.39.53:199][986]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.19-08.39.53:199][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.19-08.39.53:199][986]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
