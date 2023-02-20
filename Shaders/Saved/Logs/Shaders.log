@@ -2930,3 +2930,19 @@ Any materials which use this function will lose their connections to these funct
 [2023.02.20-13.51.42:800][852]MaterialEditorStats: Texture samplers: 7/16
 [2023.02.20-13.51.42:800][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
 [2023.02.20-13.51.42:800][852]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-13.52.02:865][  1]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.52.02:865][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.20-13.52.05:244][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.02.20-13.52.05:246][139]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.012
+[2023.02.20-13.52.05:282][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet] ([1] browsable assets)...
+[2023.02.20-13.52.05:292][139]OBJ SavePackage:     Rendered thumbnail for [Material /Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet.M_Brick_Clay_Old_Wet]
+[2023.02.20-13.52.05:292][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet]
+[2023.02.20-13.52.05:389][139]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_Brick_Clay_Old_Wet_Auto1797DA7ED4B99EE4503D7099DE124F5F1.tmp' to '../../../../ShadersUE-4.25/Shaders/Saved/Autosaves/Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet_Auto1.uasset'
+[2023.02.20-13.52.05:390][139]LogFileHelpers: Auto-saving content packages took 0.144
+[2023.02.20-13.52.07:677][276]LogMaterialEditor: Saving and Compiling material M_Brick_Clay_Old_Wet
+[2023.02.20-13.52.07:693][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet" FILE="../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/Materials/M_Brick_Clay_Old_Wet.uasset" SILENT=true
+[2023.02.20-13.52.07:784][276]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_Brick_Clay_Old_Wet76B99BAB4BF7D173FD5E5C965081C20A.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/Materials/M_Brick_Clay_Old_Wet.uasset'
+[2023.02.20-13.52.07:793][276]AssetCheck: New page: Asset Save: M_Brick_Clay_Old_Wet
+[2023.02.20-13.52.07:793][276]LogContentValidation: Display: Validating Material /Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet.M_Brick_Clay_Old_Wet
+[2023.02.20-13.52.09:312][365]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.20-13.52.09:312][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
