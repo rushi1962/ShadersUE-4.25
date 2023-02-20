@@ -2837,3 +2837,96 @@ Any materials which use this function will lose their connections to these funct
 [2023.02.20-13.50.13:486][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
 [2023.02.20-13.50.13:486][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2023.02.20-13.50.19:769][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.20-13.51.26:508][226]LogSlate: Window 'Message' being destroyed
+[2023.02.20-13.51.26:514][226]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet.M_Brick_Clay_Old_Wet
+(Selecting 'No' will cause all changes to be lost!)
+[2023.02.20-13.51.29:478][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.20-13.51.31:877][545]LogMaterialEditor: Saving and Compiling material M_Brick_Clay_Old_Wet
+[2023.02.20-13.51.32:272][545]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_Wet, compiling. 
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.02.20-13.51.32:308][545]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.20-13.51.32:402][545]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_Wet, compiling. 
+[2023.02.20-13.51.32:446][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.20-13.51.32:451][545]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2023.02.20-13.51.34:068][545]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2023.02.20-13.51.34:376][545]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2023.02.20-13.51.34:376][545]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2023.02.20-13.51.34:376][545]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.20-13.51.34:376][545]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.20-13.51.34:382][545]TextureStreamingBuild: Display: Compiling optional shaders took 1.935 seconds.
+[2023.02.20-13.51.34:395][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.02.20-13.51.34:415][545]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.02.20-13.51.35:523][545]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.02.20-13.51.35:523][545]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.20-13.51.35:523][545]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2023.02.20-13.51.35:523][545]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.20-13.51.35:523][545]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.20-13.51.35:924][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet" FILE="../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/Materials/M_Brick_Clay_Old_Wet.uasset" SILENT=true
+[2023.02.20-13.51.36:026][545]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_Brick_Clay_Old_WetEB64AB7549BBF1E4885AC685B018D22B.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/Materials/M_Brick_Clay_Old_Wet.uasset'
+[2023.02.20-13.51.36:052][545]AssetCheck: New page: Asset Save: M_Brick_Clay_Old_Wet
+[2023.02.20-13.51.36:052][545]LogContentValidation: Display: Validating Material /Game/NewMaterials/Materials/M_Brick_Clay_Old_Wet.M_Brick_Clay_Old_Wet
+[2023.02.20-13.51.36:054][545]MaterialEditorStats: Base pass shader: 147 instructions
+[2023.02.20-13.51.36:054][545]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2023.02.20-13.51.36:054][545]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2023.02.20-13.51.36:054][545]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.20-13.51.36:054][545]MaterialEditorStats: Texture samplers: 7/16
+[2023.02.20-13.51.36:054][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.02.20-13.51.36:054][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.20-13.51.37:987][658]LogMaterialEditor: Saving and Compiling material WetSurface
+[2023.02.20-13.51.38:380][658]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2023.02.20-13.51.38:398][658]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.20-13.51.38:398][658]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.20-13.51.38:398][658]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.20-13.51.38:398][658]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.20-13.51.38:406][658]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_Wet, compiling. 
+[2023.02.20-13.51.38:466][658]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2023.02.20-13.51.38:466][658]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2023.02.20-13.51.38:466][658]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2023.02.20-13.51.38:466][658]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2023.02.20-13.51.38:467][658]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_Wet, compiling. 
+[2023.02.20-13.51.38:513][658]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2023.02.20-13.51.38:530][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterials/ShaderFunctions/WetSurface" FILE="../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/ShaderFunctions/WetSurface.uasset" SILENT=true
+[2023.02.20-13.51.38:600][658]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2023.02.20-13.51.38:600][658]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/WetSurface6250B01843D7B7D404C4049C7DD4DE7B.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/ShaderFunctions/WetSurface.uasset'
+[2023.02.20-13.51.38:752][658]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2023.02.20-13.51.38:760][658]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2023.02.20-13.51.38:772][658]AssetCheck: New page: Asset Save: WetSurface
+[2023.02.20-13.51.38:772][658]LogContentValidation: Display: Validating MaterialFunction /Game/NewMaterials/ShaderFunctions/WetSurface.WetSurface
+[2023.02.20-13.51.38:916][667]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2023.02.20-13.51.39:447][699]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2023.02.20-13.51.39:495][702]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2023.02.20-13.51.39:596][708]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2023.02.20-13.51.39:612][709]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2023.02.20-13.51.40:260][740]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2023.02.20-13.51.40:552][751]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2023.02.20-13.51.40:615][753]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2023.02.20-13.51.40:739][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2023.02.20-13.51.41:242][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.20-13.51.41:398][789]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.02.20-13.51.41:472][793]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.02.20-13.51.41:602][800]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2023.02.20-13.51.41:602][800]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.20-13.51.41:636][802]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.20-13.51.41:636][802]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.20-13.51.41:843][814]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.20-13.51.42:800][852]MaterialEditorStats: Base pass shader: 147 instructions
+[2023.02.20-13.51.42:800][852]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2023.02.20-13.51.42:800][852]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2023.02.20-13.51.42:800][852]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.20-13.51.42:800][852]MaterialEditorStats: Texture samplers: 7/16
+[2023.02.20-13.51.42:800][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.02.20-13.51.42:800][852]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
