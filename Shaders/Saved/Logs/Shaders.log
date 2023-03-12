@@ -1219,3 +1219,850 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.28-05.49.03:612][615]LogSlate: Window 'M_FireFlipbookAnimationWithFBNode' being destroyed
 [2023.02.28-05.49.03:644][615]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2023.02.28-05.49.03:644][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-06.00.20:050][110]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Dell/Downloads/rain_ripples.tga)
+[2023.02.28-06.00.20:057][110]LogTexture: Display: Building textures: rain_ripples (AutoDXT, 256X256)
+[2023.02.28-06.00.20:106][110]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Dell/Downloads/rain_drop.tga)
+[2023.02.28-06.00.20:110][110]LogTexture: Display: Building textures: rain_drop (AutoDXT, 128X128)
+[2023.02.28-06.00.20:138][110]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Dell/Downloads/rain_drop_gradient.tga)
+[2023.02.28-06.00.20:142][110]LogTexture: Display: Building textures: rain_drop_gradient (G8, 128X128)
+[2023.02.28-06.00.28:542][596]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/rain_drop.rain_drop
+[2023.02.28-06.00.28:583][596]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2023.02.28-06.00.34:772][961]LogTexture: Display: Building textures: rain_drop (AutoDXT, 128X128)
+[2023.02.28-06.00.37:801][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/rain_drop" FILE="../../../../ShadersUE-4.25/Shaders/Content/Textures/rain_drop.uasset" SILENT=true
+[2023.02.28-06.00.37:813][140]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/rain_dropA0D5CADF4752A223B0CCDCB9B832AE3B.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/Textures/rain_drop.uasset'
+[2023.02.28-06.00.37:829][140]AssetCheck: New page: Asset Save: rain_drop
+[2023.02.28-06.00.37:829][140]LogContentValidation: Display: Validating Texture2D /Game/Textures/rain_drop.rain_drop
+[2023.02.28-06.00.38:971][208]LogSlate: Window 'rain_drop' being destroyed
+[2023.02.28-06.00.42:455][407]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/rain_drop_gradient.rain_drop_gradient
+[2023.02.28-06.01.03:860][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/rain_drop_gradient" FILE="../../../../ShadersUE-4.25/Shaders/Content/Textures/rain_drop_gradient.uasset" SILENT=true
+[2023.02.28-06.01.03:869][685]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/rain_drop_gradient0CEBB8CE48351154A1659997C930A1CC.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/Textures/rain_drop_gradient.uasset'
+[2023.02.28-06.01.03:878][685]AssetCheck: New page: Asset Save: rain_drop_gradient
+[2023.02.28-06.01.03:878][685]LogContentValidation: Display: Validating Texture2D /Game/Textures/rain_drop_gradient.rain_drop_gradient
+[2023.02.28-06.01.04:756][738]LogSlate: Window 'rain_drop_gradient' being destroyed
+[2023.02.28-06.01.06:997][865]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/rain_ripples.rain_ripples
+[2023.02.28-06.01.10:206][ 53]LogTexture: Display: Building textures: rain_ripples (AutoDXT, 256X256)
+[2023.02.28-06.01.12:700][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/rain_ripples" FILE="../../../../ShadersUE-4.25/Shaders/Content/Textures/rain_ripples.uasset" SILENT=true
+[2023.02.28-06.01.12:717][198]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/rain_ripplesC75ECDF042157A45F5AF3788AC8BF72D.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/Textures/rain_ripples.uasset'
+[2023.02.28-06.01.12:727][198]AssetCheck: New page: Asset Save: rain_ripples
+[2023.02.28-06.01.12:727][198]LogContentValidation: Display: Validating Texture2D /Game/Textures/rain_ripples.rain_ripples
+[2023.02.28-06.01.17:919][509]LogSlate: Window 'rain_ripples' being destroyed
+[2023.02.28-06.05.35:903][435]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterials/Materials/M_WaterRippleMaterial.M_WaterRippleMaterial
+[2023.02.28-06.05.35:904][435]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.05.35:965][435]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.05.35:971][435]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.05.35:983][435]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.05.37:646][520]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.28-06.05.38:127][548]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.28-06.05.38:127][548]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.28-06.05.38:127][548]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2023.02.28-06.05.38:127][548]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.28-06.05.57:027][678]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.05.57:033][678]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.28-06.05.57:061][679]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.05.57:061][679]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.05.57:061][679]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.05.57:062][679]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.05.57:062][679]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.05.57:062][679]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.05.57:062][679]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.05.57:062][679]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.05.57:658][708]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.05.58:102][734]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.28-06.05.58:102][734]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.28-06.05.58:102][734]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2023.02.28-06.05.58:102][734]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.28-06.06.27:808][488]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.06.27:816][488]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.06.27:818][488]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.28-06.06.27:825][488]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.29:286][568]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2023.02.28-06.06.29:305][569]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2023.02.28-06.06.29:426][576]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2023.02.28-06.06.29:636][588]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.28-06.06.29:654][589]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.06.29:672][590]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2023.02.28-06.06.29:741][594]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.28-06.06.29:741][594]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.28-06.06.29:858][601]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.28-06.06.29:997][608]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.28-06.06.30:093][613]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.28-06.06.30:226][620]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.28-06.06.30:302][624]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.28-06.06.30:894][658]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.28-06.06.30:894][658]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.28-06.06.30:894][658]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2023.02.28-06.06.30:894][658]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.28-06.06.34:946][901]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.06.34:965][901]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.06.34:965][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.28-06.06.35:574][930]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.28-06.06.35:594][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.28-06.06.35:809][943]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.28-06.06.35:814][943]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.35:855][945]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2023.02.28-06.06.35:891][947]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2023.02.28-06.06.35:908][948]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2023.02.28-06.06.35:941][950]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.02.28-06.06.35:974][952]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.28-06.06.36:152][962]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.02.28-06.06.36:152][962]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.02.28-06.06.36:531][980]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2023.02.28-06.06.36:588][983]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.28-06.06.36:588][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.06.36:614][984]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.28-06.06.37:305][ 23]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.28-06.06.37:305][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.28-06.06.37:305][ 23]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.06.37:305][ 23]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.06.37:305][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.06.37:305][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.06.46:206][557]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.46:218][558]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.06.46:218][558]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.06.46:218][558]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.06.46:218][558]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.06.46:218][558]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.06.46:218][558]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.06.46:219][558]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.06.46:219][558]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.06.46:875][590]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.28-06.06.47:316][616]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.28-06.06.47:316][616]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.28-06.06.47:316][616]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.06.47:316][616]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.06.47:316][616]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.06.47:316][616]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.06.52:016][896]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.06.52:048][897]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.06.52:653][926]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.28-06.06.53:174][957]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.28-06.06.53:174][957]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.28-06.06.53:174][957]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.06.53:174][957]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.06.53:174][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.06.53:174][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.06.57:067][188]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.57:073][188]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.06.57:096][189]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.06.57:096][189]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.06.57:096][189]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.06.57:096][189]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.06.57:097][189]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.06.57:097][189]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.06.57:097][189]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.06.57:097][189]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.06.57:737][221]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.06.58:173][247]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.28-06.06.58:173][247]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.28-06.06.58:173][247]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.06.58:173][247]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.06.58:173][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.06.58:173][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.07.22:365][609]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.07.22:375][609]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.07.22:375][609]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.28-06.07.23:932][695]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.28-06.07.23:952][696]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.28-06.07.24:162][708]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.28-06.07.24:254][713]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.07.24:271][714]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.28-06.07.24:489][727]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.28-06.07.24:489][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.28-06.07.24:489][727]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.07.24:489][727]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.07.24:489][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.07.24:489][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.07.25:200][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.28-06.07.25:202][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.013
+[2023.02.28-06.07.25:202][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewMaterials/Materials/M_WaterRippleMaterial] ([1] browsable assets)...
+[2023.02.28-06.07.25:211][748]OBJ SavePackage:     Rendered thumbnail for [Material /Game/NewMaterials/Materials/M_WaterRippleMaterial.M_WaterRippleMaterial]
+[2023.02.28-06.07.25:211][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMaterials/Materials/M_WaterRippleMaterial]
+[2023.02.28-06.07.25:226][748]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_WaterRippleMaterial_Auto1F303A121436076F98935CDAB9011BE71.tmp' to '../../../../ShadersUE-4.25/Shaders/Saved/Autosaves/Game/NewMaterials/Materials/M_WaterRippleMaterial_Auto1.uasset'
+[2023.02.28-06.07.25:227][748]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.02.28-06.07.40:931][521]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.07.40:938][521]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.07.40:966][522]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.07.41:593][552]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.07.42:042][578]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.28-06.07.42:042][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.28-06.07.42:042][578]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.07.42:042][578]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.07.42:042][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.07.42:042][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.07.43:809][684]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.07.43:821][684]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.28-06.07.43:824][684]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.07.43:824][684]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.07.43:825][684]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.07.43:825][684]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.07.43:825][684]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.07.43:825][684]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.07.43:825][684]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.07.43:825][684]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.07.44:539][719]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.28-06.07.44:558][720]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.28-06.07.44:818][734]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.02.28-06.07.44:818][734]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.28-06.07.44:875][737]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.02.28-06.07.46:066][807]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.07.46:072][807]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.07.46:687][837]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.28-06.07.47:148][864]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.02.28-06.07.47:148][864]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.02.28-06.07.47:148][864]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.07.47:148][864]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.07.47:148][864]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.07.47:148][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.08.17:398][ 47]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.08.17:404][ 47]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.08.17:429][ 48]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.08.19:056][138]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.08.19:546][165]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.02.28-06.08.19:546][165]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.02.28-06.08.19:546][165]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.08.19:546][165]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.08.19:546][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.08.19:546][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.08.23:801][419]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.08.23:820][420]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.08.24:433][449]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.08.24:896][475]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.02.28-06.08.24:896][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.02.28-06.08.24:896][475]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.08.24:896][475]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.08.24:896][475]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.08.24:896][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.08.27:332][621]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.08.27:339][621]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.08.27:361][622]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.08.28:134][660]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.28-06.08.28:612][687]MaterialEditorStats: Base pass shader: 122 instructions
+[2023.02.28-06.08.28:612][687]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2023.02.28-06.08.28:612][687]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.08.28:612][687]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.08.28:612][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.08.28:612][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.09.51:529][475]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.09.51:565][476]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.09.53:135][564]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.09.53:222][569]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.09.53:230][569]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2023.02.28-06.09.53:333][575]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.09.53:351][576]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2023.02.28-06.09.53:452][582]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.28-06.09.53:452][582]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2023.02.28-06.09.53:470][583]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.02.28-06.09.53:487][584]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.02.28-06.09.53:635][592]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.28-06.09.53:963][608]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.28-06.09.54:501][639]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.02.28-06.09.54:501][639]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.02.28-06.09.54:501][639]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.09.54:501][639]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.09.54:501][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.09.54:501][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.10.00:333][988]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.10.00:362][989]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.10.00:944][ 17]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.10.01:388][ 43]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.28-06.10.01:388][ 43]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.28-06.10.01:388][ 43]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2023.02.28-06.10.01:388][ 43]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.28-06.10.09:541][531]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.10.09:547][531]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.10.09:575][532]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.10.10:147][560]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.10.10:589][586]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.28-06.10.10:589][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.28-06.10.10:590][586]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2023.02.28-06.10.10:590][586]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.28-06.10.20:674][189]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.10.20:680][189]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.10.20:713][190]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.10.21:351][222]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.02.28-06.10.22:789][307]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.10.22:798][307]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2023.02.28-06.10.22:801][307]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.10.22:801][307]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.10.22:801][307]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.10.22:801][307]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.10.22:802][307]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.10.22:802][307]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.10.22:802][307]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.10.22:802][307]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.10.23:397][336]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.02.28-06.10.23:440][338]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.10.23:638][349]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.28-06.10.23:700][352]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.10.23:757][355]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.28-06.10.24:003][369]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.28-06.10.24:003][369]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.28-06.10.24:003][369]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2023.02.28-06.10.24:003][369]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.28-06.10.26:795][536]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.10.26:811][537]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.10.27:418][566]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.28-06.10.27:875][593]MaterialEditorStats: Base pass shader: 122 instructions
+[2023.02.28-06.10.27:875][593]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2023.02.28-06.10.27:875][593]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.10.27:875][593]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.28-06.10.27:875][593]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.10.27:875][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.50.00:507][239]LogMaterialEditor: Saving and Compiling material M_WaterRippleMaterial
+[2023.02.28-06.50.01:017][239]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2023.02.28-06.50.01:043][239]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.02.28-06.50.01:071][239]LogMaterial: Display: Missing cached shader map for material M_WaterRippleMaterial, compiling. 
+[2023.02.28-06.50.01:104][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.02.28-06.50.01:118][239]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.02.28-06.50.02:728][239]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2023.02.28-06.50.02:728][239]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2023.02.28-06.50.02:728][239]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2023.02.28-06.50.02:728][239]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2023.02.28-06.50.02:880][239]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2023.02.28-06.50.02:880][239]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2023.02.28-06.50.02:880][239]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2023.02.28-06.50.02:880][239]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2023.02.28-06.50.02:880][239]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.28-06.50.02:880][239]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.02.28-06.50.02:880][239]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.28-06.50.02:882][239]TextureStreamingBuild: Display: Compiling optional shaders took 1.769 seconds.
+[2023.02.28-06.50.02:906][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.28-06.50.03:490][239]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.02.28-06.50.04:024][239]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.02.28-06.50.04:024][239]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.28-06.50.04:344][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterials/Materials/M_WaterRippleMaterial" FILE="../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/Materials/M_WaterRippleMaterial.uasset" SILENT=true
+[2023.02.28-06.50.04:434][239]LogSavePackage: Moving '../../../../ShadersUE-4.25/Shaders/Saved/M_WaterRippleMaterialADC614F44AB2E1D29ABA488140A7A476.tmp' to '../../../../ShadersUE-4.25/Shaders/Content/NewMaterials/Materials/M_WaterRippleMaterial.uasset'
+[2023.02.28-06.50.04:461][239]AssetCheck: New page: Asset Save: M_WaterRippleMaterial
+[2023.02.28-06.50.04:461][239]LogContentValidation: Display: Validating Material /Game/NewMaterials/Materials/M_WaterRippleMaterial.M_WaterRippleMaterial
+[2023.02.28-06.50.04:463][239]MaterialEditorStats: Base pass shader: 122 instructions
+[2023.02.28-06.50.04:464][239]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2023.02.28-06.50.04:464][239]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2023.02.28-06.50.04:464][239]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.28-06.50.04:464][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.28-06.50.04:464][239]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.28-06.50.05:872][324]LogSlate: Window 'M_WaterRippleMaterial' being destroyed
+[2023.02.28-06.50.05:876][324]LogSlate: Window 'M_WaterRippleMaterial' being destroyed
+[2023.02.28-06.50.05:973][324]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-06.50.05:973][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-06.50.08:621][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.28-06.50.08:678][385]LogSlate: Window 'Shaders - Unreal Editor' being destroyed
+[2023.02.28-06.50.08:830][386]Cmd: QUIT_EDITOR
+[2023.02.28-06.50.08:830][386]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.28-06.50.08:840][386]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.28-06.50.08:907][386]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.02.28-06.50.08:931][386]LogExit: Preparing to exit.
+[2023.02.28-06.50.09:383][386]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-06.50.09:416][386]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.28-06.50.09:427][386]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-06.50.09:432][386]LogExit: Editor shut down
+[2023.02.28-06.50.09:433][386]LogExit: Transaction tracking system shut down
+[2023.02.28-06.50.09:858][386]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025B82758E00), frame # 37386
+[2023.02.28-06.50.09:858][386]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025B84821080), frame # 37386
+[2023.02.28-06.50.09:883][386]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000025B8BFAA9C0), frame # 37386
+[2023.02.28-06.50.09:883][386]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025B8FFC47C0), frame # 37386
+[2023.02.28-06.50.09:883][386]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025B8BE95A00), frame # 37386
+[2023.02.28-06.50.09:923][386]LogExit: Object subsystem successfully closed.
+[2023.02.28-06.50.09:961][386]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.28-06.50.10:044][386]LogModuleManager: Shutting down and abandoning module TextureEditor (774)
+[2023.02.28-06.50.10:045][386]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (772)
+[2023.02.28-06.50.10:045][386]LogModuleManager: Shutting down and abandoning module SceneOutliner (770)
+[2023.02.28-06.50.10:045][386]LogModuleManager: Shutting down and abandoning module AddContentDialog (768)
+[2023.02.28-06.50.10:047][386]LogModuleManager: Shutting down and abandoning module WidgetCarousel (767)
+[2023.02.28-06.50.10:047][386]LogModuleManager: Shutting down and abandoning module EditorWidgets (764)
+[2023.02.28-06.50.10:047][386]LogModuleManager: Shutting down and abandoning module CollectionManager (762)
+[2023.02.28-06.50.10:048][386]LogModuleManager: Shutting down and abandoning module StatsViewer (760)
+[2023.02.28-06.50.10:049][386]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (758)
+[2023.02.28-06.50.10:049][386]LogModuleManager: Shutting down and abandoning module FoliageEdit (756)
+[2023.02.28-06.50.10:049][386]LogModuleManager: Shutting down and abandoning module LandscapeEditor (754)
+[2023.02.28-06.50.10:050][386]LogModuleManager: Shutting down and abandoning module MeshPaintMode (752)
+[2023.02.28-06.50.10:050][386]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (750)
+[2023.02.28-06.50.10:050][386]LogModuleManager: Shutting down and abandoning module ActorPickerMode (748)
+[2023.02.28-06.50.10:050][386]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (746)
+[2023.02.28-06.50.10:051][386]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (744)
+[2023.02.28-06.50.10:051][386]LogModuleManager: Shutting down and abandoning module AutomationWorker (742)
+[2023.02.28-06.50.10:052][386]LogModuleManager: Shutting down and abandoning module SteamVREditor (740)
+[2023.02.28-06.50.10:052][386]LogModuleManager: Shutting down and abandoning module OculusMR (738)
+[2023.02.28-06.50.10:052][386]LogModuleManager: Shutting down and abandoning module GooglePADEditor (736)
+[2023.02.28-06.50.10:052][386]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (734)
+[2023.02.28-06.50.10:052][386]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (732)
+[2023.02.28-06.50.10:053][386]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (730)
+[2023.02.28-06.50.10:053][386]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (728)
+[2023.02.28-06.50.10:055][386]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (726)
+[2023.02.28-06.50.10:056][386]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (724)
+[2023.02.28-06.50.10:056][386]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (722)
+[2023.02.28-06.50.10:056][386]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (720)
+[2023.02.28-06.50.10:056][386]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (718)
+[2023.02.28-06.50.10:056][386]LogModuleManager: Shutting down and abandoning module WebMMedia (716)
+[2023.02.28-06.50.10:057][386]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (714)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (712)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module SequenceRecorder (711)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (708)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (706)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (704)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (702)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (700)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (698)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (696)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (694)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (692)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (690)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module PlanarCut (688)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module CharacterAI (686)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module TextureAlignMode (684)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module BspMode (682)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module PlacementMode (681)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module GeometryMode (678)
+[2023.02.28-06.50.10:058][386]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (676)
+[2023.02.28-06.50.10:060][386]LogModuleManager: Shutting down and abandoning module SmartSnapping (674)
+[2023.02.28-06.50.10:060][386]LogModuleManager: Shutting down and abandoning module SessionServices (672)
+[2023.02.28-06.50.10:060][386]LogModuleManager: Shutting down and abandoning module MeshPaint (670)
+[2023.02.28-06.50.10:062][386]LogModuleManager: Shutting down and abandoning module ViewportSnapping (668)
+[2023.02.28-06.50.10:062][386]LogModuleManager: Shutting down and abandoning module ViewportInteraction (666)
+[2023.02.28-06.50.10:062][386]LogModuleManager: Shutting down and abandoning module ClothPainter (664)
+[2023.02.28-06.50.10:062][386]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (663)
+[2023.02.28-06.50.10:064][386]LogModuleManager: Shutting down and abandoning module LogVisualizer (660)
+[2023.02.28-06.50.10:065][386]LogModuleManager: Shutting down and abandoning module IntroTutorials (658)
+[2023.02.28-06.50.10:065][386]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (657)
+[2023.02.28-06.50.10:065][386]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (654)
+[2023.02.28-06.50.10:065][386]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (652)
+[2023.02.28-06.50.10:065][386]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (650)
+[2023.02.28-06.50.10:065][386]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (649)
+[2023.02.28-06.50.10:387][386]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (646)
+[2023.02.28-06.50.10:387][386]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (644)
+[2023.02.28-06.50.10:387][386]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (642)
+[2023.02.28-06.50.10:387][386]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (640)
+[2023.02.28-06.50.10:387][386]LogModuleManager: Shutting down and abandoning module TraceInsights (638)
+[2023.02.28-06.50.10:393][386]LogModuleManager: Shutting down and abandoning module TraceServices (637)
+[2023.02.28-06.50.10:394][386]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (634)
+[2023.02.28-06.50.10:394][386]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (632)
+[2023.02.28-06.50.10:394][386]LogModuleManager: Shutting down and abandoning module InputBindingEditor (630)
+[2023.02.28-06.50.10:395][386]LogModuleManager: Shutting down and abandoning module MergeActors (628)
+[2023.02.28-06.50.10:396][386]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (626)
+[2023.02.28-06.50.10:396][386]LogModuleManager: Shutting down and abandoning module LocalizationService (625)
+[2023.02.28-06.50.10:396][386]LogModuleManager: Shutting down and abandoning module HardwareTargeting (622)
+[2023.02.28-06.50.10:396][386]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (620)
+[2023.02.28-06.50.10:396][386]LogModuleManager: Shutting down and abandoning module UndoHistory (618)
+[2023.02.28-06.50.10:397][386]LogModuleManager: Shutting down and abandoning module XmlParser (616)
+[2023.02.28-06.50.10:398][386]LogModuleManager: Shutting down and abandoning module Blutility (614)
+[2023.02.28-06.50.10:398][386]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (612)
+[2023.02.28-06.50.10:398][386]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (611)
+[2023.02.28-06.50.10:398][386]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (608)
+[2023.02.28-06.50.10:398][386]LogModuleManager: Shutting down and abandoning module SettingsEditor (606)
+[2023.02.28-06.50.10:399][386]LogModuleManager: Shutting down and abandoning module ProjectLauncher (604)
+[2023.02.28-06.50.10:399][386]LogModuleManager: Shutting down and abandoning module SessionFrontend (602)
+[2023.02.28-06.50.10:400][386]LogModuleManager: Shutting down and abandoning module ProfilerClient (600)
+[2023.02.28-06.50.10:400][386]LogModuleManager: Shutting down and abandoning module DeviceManager (598)
+[2023.02.28-06.50.10:401][386]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (597)
+[2023.02.28-06.50.10:434][386]LogModuleManager: Shutting down and abandoning module AutomationController (594)
+[2023.02.28-06.50.10:435][386]LogModuleManager: Shutting down and abandoning module AutomationWindow (592)
+[2023.02.28-06.50.10:436][386]LogModuleManager: Shutting down and abandoning module Layers (590)
+[2023.02.28-06.50.10:438][386]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (588)
+[2023.02.28-06.50.10:438][386]LogModuleManager: Shutting down and abandoning module DetailCustomizations (586)
+[2023.02.28-06.50.10:439][386]LogModuleManager: Shutting down and abandoning module PackagesDialog (584)
+[2023.02.28-06.50.10:439][386]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (582)
+[2023.02.28-06.50.10:441][386]LogModuleManager: Shutting down and abandoning module Persona (580)
+[2023.02.28-06.50.10:442][386]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (579)
+[2023.02.28-06.50.10:442][386]LogModuleManager: Shutting down and abandoning module AnimGraph (577)
+[2023.02.28-06.50.10:443][386]LogModuleManager: Shutting down and abandoning module Kismet (574)
+[2023.02.28-06.50.10:445][386]LogModuleManager: Shutting down and abandoning module KismetWidgets (573)
+[2023.02.28-06.50.10:445][386]LogModuleManager: Shutting down and abandoning module GraphEditor (570)
+[2023.02.28-06.50.10:445][386]LogModuleManager: Shutting down and abandoning module StructViewer (568)
+[2023.02.28-06.50.10:445][386]LogModuleManager: Shutting down and abandoning module ClassViewer (566)
+[2023.02.28-06.50.10:445][386]LogModuleManager: Shutting down and abandoning module Toolbox (564)
+[2023.02.28-06.50.10:445][386]LogModuleManager: Shutting down and abandoning module ModuleUI (562)
+[2023.02.28-06.50.10:446][386]LogModuleManager: Shutting down and abandoning module OutputLog (560)
+[2023.02.28-06.50.10:446][386]LogModuleManager: Shutting down and abandoning module GammaUI (558)
+[2023.02.28-06.50.10:447][386]LogModuleManager: Shutting down and abandoning module Documentation (556)
+[2023.02.28-06.50.10:447][386]LogModuleManager: Shutting down and abandoning module LiveCoding (554)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module LevelSequence (552)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (550)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module MovieScene (548)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (546)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module LauncherPlatform (544)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module AnalyticsET (542)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module PortalServices (540)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module PortalRpc (538)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module MessagingRpc (536)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (534)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module AudioMixerCore (533)
+[2023.02.28-06.50.10:448][386]LogModuleManager: Shutting down and abandoning module AIModule (530)
+[2023.02.28-06.50.10:449][386]LogModuleManager: Shutting down and abandoning module GameplayDebugger (529)
+[2023.02.28-06.50.10:449][386]LogModuleManager: Shutting down and abandoning module AITestSuite (527)
+[2023.02.28-06.50.10:449][386]LogModuleManager: Shutting down and abandoning module NavigationSystem (525)
+[2023.02.28-06.50.10:450][386]LogModuleManager: Shutting down and abandoning module ProfilerService (522)
+[2023.02.28-06.50.10:453][386]LogModuleManager: Shutting down and abandoning module TaskGraph (520)
+[2023.02.28-06.50.10:454][386]LogModuleManager: Shutting down and abandoning module ScreenshotTools (518)
+[2023.02.28-06.50.10:454][386]LogModuleManager: Shutting down and abandoning module SynthesisEditor (516)
+[2023.02.28-06.50.10:454][386]LogModuleManager: Shutting down and abandoning module Synthesis (514)
+[2023.02.28-06.50.10:455][386]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (512)
+[2023.02.28-06.50.10:455][386]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (510)
+[2023.02.28-06.50.10:455][386]LogModuleManager: Shutting down and abandoning module OculusEditor (508)
+[2023.02.28-06.50.10:455][386]LogModuleManager: Shutting down and abandoning module OculusInput (506)
+[2023.02.28-06.50.10:455][386]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (504)
+[2023.02.28-06.50.10:455][386]LogModuleManager: Shutting down and abandoning module GooglePAD (502)
+[2023.02.28-06.50.10:455][386]LogModuleManager: Shutting down and abandoning module EditableMesh (500)
+[2023.02.28-06.50.10:456][386]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (498)
+[2023.02.28-06.50.10:456][386]LogModuleManager: Shutting down and abandoning module CableComponent (496)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module AudioCapture (494)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (493)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module AssetTags (490)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (488)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (486)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module AppleImageUtils (484)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module AndroidPermission (482)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (480)
+[2023.02.28-06.50.10:457][386]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (479)
+[2023.02.28-06.50.10:458][386]LogModuleManager: Shutting down and abandoning module TemplateSequence (476)
+[2023.02.28-06.50.10:458][386]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (474)
+[2023.02.28-06.50.10:458][386]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (472)
+[2023.02.28-06.50.10:458][386]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (470)
+[2023.02.28-06.50.10:458][386]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (468)
+[2023.02.28-06.50.10:458][386]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (467)
+[2023.02.28-06.50.10:461][386]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (464)
+[2023.02.28-06.50.10:461][386]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (462)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module MediaCompositing (460)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module ImgMedia (458)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (456)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (454)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (452)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (450)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (448)
+[2023.02.28-06.50.10:463][386]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (446)
+[2023.02.28-06.50.10:464][386]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (444)
+[2023.02.28-06.50.10:465][386]LogModuleManager: Shutting down and abandoning module MeshConversion (442)
+[2023.02.28-06.50.10:465][386]LogModuleManager: Shutting down and abandoning module DynamicMesh (440)
+[2023.02.28-06.50.10:467][386]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (438)
+[2023.02.28-06.50.10:467][386]LogModuleManager: Shutting down and abandoning module GeometricObjects (436)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (434)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (433)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (430)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (428)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (426)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (424)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module ChaosNiagara (422)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module FractureEditor (420)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (418)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module ChaosCloth (416)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module BackChannel (414)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (412)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module AutomationUtils (410)
+[2023.02.28-06.50.10:468][386]LogModuleManager: Shutting down and abandoning module AlembicImporter (408)
+[2023.02.28-06.50.10:469][386]LogModuleManager: Shutting down and abandoning module AlembicLibrary (407)
+[2023.02.28-06.50.10:469][386]LogModuleManager: Shutting down and abandoning module GeometryCache (406)
+[2023.02.28-06.50.10:469][386]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (405)
+[2023.02.28-06.50.10:469][386]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (400)
+[2023.02.28-06.50.10:470][386]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (398)
+[2023.02.28-06.50.10:470][386]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (396)
+[2023.02.28-06.50.10:470][386]LogModuleManager: Shutting down and abandoning module PluginBrowser (394)
+[2023.02.28-06.50.10:471][386]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (392)
+[2023.02.28-06.50.10:472][386]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (390)
+[2023.02.28-06.50.10:472][386]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (388)
+[2023.02.28-06.50.10:472][386]LogModuleManager: Shutting down and abandoning module CurveEditorTools (386)
+[2023.02.28-06.50.10:474][386]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (384)
+[2023.02.28-06.50.10:474][386]LogModuleManager: Shutting down and abandoning module CryptoKeys (382)
+[2023.02.28-06.50.10:474][386]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (380)
+[2023.02.28-06.50.10:474][386]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (378)
+[2023.02.28-06.50.10:474][386]LogModuleManager: Shutting down and abandoning module UObjectPlugin (376)
+[2023.02.28-06.50.10:474][386]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (374)
+[2023.02.28-06.50.10:475][386]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (372)
+[2023.02.28-06.50.10:475][386]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (370)
+[2023.02.28-06.50.10:476][386]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (368)
+[2023.02.28-06.50.10:477][386]LogModuleManager: Shutting down and abandoning module GitSourceControl (366)
+[2023.02.28-06.50.10:477][386]LogModuleManager: Shutting down and abandoning module SourceControl (365)
+[2023.02.28-06.50.10:477][386]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (362)
+[2023.02.28-06.50.10:477][386]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (360)
+[2023.02.28-06.50.10:477][386]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (358)
+[2023.02.28-06.50.10:478][386]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (356)
+[2023.02.28-06.50.10:478][386]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (354)
+[2023.02.28-06.50.10:478][386]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (352)
+[2023.02.28-06.50.10:478][386]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (350)
+[2023.02.28-06.50.10:478][386]LogModuleManager: Shutting down and abandoning module Paper2DEditor (348)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module Shaders (346)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module SoundFields (344)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module SignificanceManager (342)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (340)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (338)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (334)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module ActorSequence (332)
+[2023.02.28-06.50.10:479][386]LogModuleManager: Shutting down and abandoning module UdpMessaging (330)
+[2023.02.28-06.50.10:580][386]LogModuleManager: Shutting down and abandoning module TcpMessaging (328)
+[2023.02.28-06.50.10:680][386]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (326)
+[2023.02.28-06.50.10:680][386]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (324)
+[2023.02.28-06.50.10:680][386]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (322)
+[2023.02.28-06.50.10:681][386]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2023.02.28-06.50.10:681][386]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2023.02.28-06.50.10:681][386]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (316)
+[2023.02.28-06.50.10:681][386]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (314)
+[2023.02.28-06.50.10:682][386]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (312)
+[2023.02.28-06.50.10:683][386]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (310)
+[2023.02.28-06.50.10:683][386]LogModuleManager: Shutting down and abandoning module MagicLeapController (308)
+[2023.02.28-06.50.10:685][386]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.28-06.50.10:686][386]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (306)
+[2023.02.28-06.50.10:686][386]LogModuleManager: Shutting down and abandoning module MagicLeapAR (304)
+[2023.02.28-06.50.10:686][386]LogModuleManager: Shutting down and abandoning module AugmentedReality (303)
+[2023.02.28-06.50.10:686][386]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (300)
+[2023.02.28-06.50.10:686][386]LogModuleManager: Shutting down and abandoning module Niagara (298)
+[2023.02.28-06.50.10:689][386]LogModuleManager: Shutting down and abandoning module SignalProcessing (297)
+[2023.02.28-06.50.10:689][386]LogModuleManager: Shutting down and abandoning module NiagaraEditor (295)
+[2023.02.28-06.50.10:692][386]LogModuleManager: Shutting down and abandoning module NiagaraCore (292)
+[2023.02.28-06.50.10:692][386]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (290)
+[2023.02.28-06.50.10:693][386]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (288)
+[2023.02.28-06.50.10:693][386]LogModuleManager: Shutting down and abandoning module FacialAnimation (286)
+[2023.02.28-06.50.10:693][386]LogModuleManager: Shutting down and abandoning module DataValidation (284)
+[2023.02.28-06.50.10:693][386]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (282)
+[2023.02.28-06.50.10:694][386]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2023.02.28-06.50.10:697][386]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2023.02.28-06.50.10:697][386]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (278)
+[2023.02.28-06.50.10:697][386]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2023.02.28-06.50.10:698][386]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2023.02.28-06.50.10:699][386]LogModuleManager: Shutting down and abandoning module ToolMenus (271)
+[2023.02.28-06.50.10:699][386]LogModuleManager: Shutting down and abandoning module ContentBrowser (269)
+[2023.02.28-06.50.10:702][386]LogModuleManager: Shutting down and abandoning module TreeMap (267)
+[2023.02.28-06.50.10:703][386]LogModuleManager: Shutting down and abandoning module AnimationSharing (264)
+[2023.02.28-06.50.10:703][386]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (262)
+[2023.02.28-06.50.10:703][386]LogModuleManager: Shutting down and abandoning module Paper2D (260)
+[2023.02.28-06.50.10:703][386]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (258)
+[2023.02.28-06.50.10:703][386]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (256)
+[2023.02.28-06.50.10:704][386]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (254)
+[2023.02.28-06.50.10:704][386]LogModuleManager: Shutting down and abandoning module PacketHandler (252)
+[2023.02.28-06.50.10:704][386]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (250)
+[2023.02.28-06.50.10:704][386]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (248)
+[2023.02.28-06.50.10:705][386]LogModuleManager: Shutting down and abandoning module MediaAssets (246)
+[2023.02.28-06.50.10:705][386]LogModuleManager: Shutting down and abandoning module Overlay (244)
+[2023.02.28-06.50.10:705][386]LogModuleManager: Shutting down and abandoning module OverlayEditor (243)
+[2023.02.28-06.50.10:705][386]LogModuleManager: Shutting down and abandoning module VREditor (240)
+[2023.02.28-06.50.10:706][386]LogModuleManager: Shutting down and abandoning module StringTableEditor (238)
+[2023.02.28-06.50.10:706][386]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (236)
+[2023.02.28-06.50.10:706][386]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (234)
+[2023.02.28-06.50.10:707][386]LogModuleManager: Shutting down and abandoning module FunctionalTesting (232)
+[2023.02.28-06.50.10:707][386]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (230)
+[2023.02.28-06.50.10:708][386]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (229)
+[2023.02.28-06.50.10:708][386]LogModuleManager: Shutting down and abandoning module UMG (226)
+[2023.02.28-06.50.10:709][386]LogModuleManager: Shutting down and abandoning module UMGEditor (225)
+[2023.02.28-06.50.10:710][386]LogModuleManager: Shutting down and abandoning module MessageLog (223)
+[2023.02.28-06.50.10:710][386]LogModuleManager: Shutting down and abandoning module MaterialEditor (221)
+[2023.02.28-06.50.10:710][386]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (204)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (202)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module XAudio2 (200)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module Networking (198)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module Core (196)
+[2023.02.28-06.50.10:713][386]LogModuleManager: Shutting down and abandoning module MovieSceneTools (194)
+[2023.02.28-06.50.10:714][386]LogModuleManager: Shutting down and abandoning module CurveEditor (193)
+[2023.02.28-06.50.10:716][386]LogModuleManager: Shutting down and abandoning module Sequencer (191)
+[2023.02.28-06.50.10:718][386]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2023.02.28-06.50.10:720][386]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2023.02.28-06.50.10:720][386]LogModuleManager: Shutting down and abandoning module MeshBuilder (184)
+[2023.02.28-06.50.10:721][386]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2023.02.28-06.50.10:721][386]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2023.02.28-06.50.10:722][386]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2023.02.28-06.50.10:722][386]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (179)
+[2023.02.28-06.50.10:722][386]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (177)
+[2023.02.28-06.50.10:722][386]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2023.02.28-06.50.10:723][386]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2023.02.28-06.50.10:724][386]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2023.02.28-06.50.10:724][386]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2023.02.28-06.50.10:724][386]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2023.02.28-06.50.10:724][386]LogXGEController: Cleaning working directory: C:/Users/Dell/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.28-06.50.10:725][386]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2023.02.28-06.50.10:725][386]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2023.02.28-06.50.10:726][386]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2023.02.28-06.50.10:726][386]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2023.02.28-06.50.10:726][386]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2023.02.28-06.50.10:726][386]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2023.02.28-06.50.10:726][386]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2023.02.28-06.50.10:726][386]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2023.02.28-06.50.10:727][386]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2023.02.28-06.50.10:727][386]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2023.02.28-06.50.10:727][386]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2023.02.28-06.50.10:727][386]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2023.02.28-06.50.10:727][386]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2023.02.28-06.50.10:727][386]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2023.02.28-06.50.10:727][386]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2023.02.28-06.50.10:728][386]LogModuleManager: Shutting down and abandoning module XXXTargetPlatform (131)
+[2023.02.28-06.50.10:731][386]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (129)
+[2023.02.28-06.50.10:731][386]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (127)
+[2023.02.28-06.50.10:731][386]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (125)
+[2023.02.28-06.50.10:731][386]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (123)
+[2023.02.28-06.50.10:731][386]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2023.02.28-06.50.10:737][386]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2023.02.28-06.50.10:740][386]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2023.02.28-06.50.10:740][386]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2023.02.28-06.50.10:743][386]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2023.02.28-06.50.10:756][386]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (111)
+[2023.02.28-06.50.10:756][386]LogModuleManager: Shutting down and abandoning module InputCore (108)
+[2023.02.28-06.50.10:756][386]LogModuleManager: Shutting down and abandoning module Settings (106)
+[2023.02.28-06.50.10:756][386]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (104)
+[2023.02.28-06.50.10:757][386]LogModuleManager: Shutting down and abandoning module PhysXCooking (102)
+[2023.02.28-06.50.10:757][386]LogModuleManager: Shutting down and abandoning module ChaosSolvers (100)
+[2023.02.28-06.50.10:758][386]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (99)
+[2023.02.28-06.50.10:758][386]LogModuleManager: Shutting down and abandoning module Chaos (96)
+[2023.02.28-06.50.10:758][386]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (94)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (93)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module AVEncoder (92)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2023.02.28-06.50.10:759][386]LogHMD: Freeing OpenVRDLLHandle.
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2023.02.28-06.50.10:759][386]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2023.02.28-06.50.10:763][386]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2023.02.28-06.50.10:763][386]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.02.28-06.50.10:763][386]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B92B7DEA7-4405-5B96-9B2B-E58FF06AA63A%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.25.4-0%2B%2B%2BUE4%2BRelease-4.25&UserID=aa0c4f274361a4810205c9a6d57d34df%7C970441b6187c4405bc81946c6326e935%7Caa3f655a-a5c5-437d-b26a-6d36448b8926&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.28-06.50.10:778][386]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2023.02.28-06.50.10:781][386]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2023.02.28-06.50.10:783][386]LogModuleManager: Shutting down and abandoning module Media (61)
+[2023.02.28-06.50.10:784][386]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2023.02.28-06.50.10:784][386]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2023.02.28-06.50.10:785][386]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2023.02.28-06.50.10:785][386]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2023.02.28-06.50.10:785][386]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2023.02.28-06.50.10:785][386]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2023.02.28-06.50.10:785][386]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2023.02.28-06.50.10:786][386]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.02.28-06.50.10:786][386]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.02.28-06.50.10:786][386]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.02.28-06.50.10:786][386]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.02.28-06.50.10:787][386]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.02.28-06.50.10:787][386]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2023.02.28-06.50.10:790][386]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.02.28-06.50.10:790][386]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.02.28-06.50.10:790][386]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.02.28-06.50.10:790][386]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.02.28-06.50.10:791][386]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.02.28-06.50.10:791][386]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.02.28-06.50.10:791][386]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.02.28-06.50.10:792][386]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.02.28-06.50.10:792][386]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.02.28-06.50.10:792][386]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.02.28-06.50.10:792][386]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.02.28-06.50.10:793][386]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.02.28-06.50.10:793][386]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.02.28-06.50.10:793][386]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.02.28-06.50.10:793][386]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.02.28-06.50.10:793][386]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.02.28-06.50.10:793][386]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.02.28-06.50.10:795][386]LogD3D11RHI: Shutdown
+[2023.02.28-06.50.10:795][386]LogD3D11RHI: CleanupD3DDevice
+[2023.02.28-06.50.10:814][386]LogExit: Exiting.
+[2023.02.28-06.50.10:836][386]Log file closed, 02/28/23 12:20:10
